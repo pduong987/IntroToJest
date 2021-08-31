@@ -1,0 +1,24 @@
+{
+  "name": "IntroToJest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test --coverage",
+    "start": "node ./source/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pduong987/IntroToJest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pduong987/IntroToJest/issues"
+  },
+  "homepage": "https://github.com/pduong987/IntroToJest#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
